@@ -1,0 +1,113 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+}
+
+h1{
+    background-color: darkcyan;
+    color: white;
+    height: 50px;
+    padding-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2{
+    color: teal;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+h3{
+    color: teal;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+h4{
+    margin-bottom: 5px;
+    text-align: left;
+  
+}
+
+hr{
+    border-color: teal;
+    margin-top: 0px;
+}
+
+p{
+    margin: 0px;
+    border:0px;
+    text-align: justify;
+}
+
+
+.linha{
+    clear: both;
+}
+
+.titulos{
+    color: darkcyan;
+    font-weight: bold;
+}
+
+.tudo{
+    width: 60%;
+    border:solid 1px black;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px 30px 30px 30px;
+    clear: both;
+}
+
+.pontos{
+    color: darkcyan;
+    font-size: 30px;
+    margin: 0 auto;
+    padding: 5px 5px 5px 5px;
+}
+
+#foto{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 30;
+}
+
+#contato{
+    width: 60%;
+    float: left;
+    text-align: left;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+
+#imgFoto{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50px;
+}
+
+#link{
+    color:darkcyan
+}
+
+#coluna1{
+    float: left;
+    width: 45%;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+
+
+#coluna2{
+    float: left;
+    width: 45%;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
+}
